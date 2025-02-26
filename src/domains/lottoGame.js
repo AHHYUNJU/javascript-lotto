@@ -1,4 +1,4 @@
-import WinningStatistics from "../domains/WinningStatistics.js";
+import WinningStatistics from "./WinningStatistics.js";
 import issueLottos from "./issueLottos.js";
 
 class LottoGame {
